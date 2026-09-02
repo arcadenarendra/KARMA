@@ -31,7 +31,6 @@ export default function Login({ navigate }: { navigate: NavigateFn }) {
             {error && <div style={{ color: '#DC2626', fontSize: '0.8rem' }}>{error}</div>}
             <button type="submit" className="btn-primary" style={{ padding: '11px', justifyContent: 'center' }}>Sign In</button>
           </form>
-          <p style={{ fontSize: '0.75rem', color: '#94A3B8', marginTop: 12 }}>Admin demo: admin@karm.local / admin123</p>
           <div style={{ textAlign: 'center', marginTop: 16 }}>
             <button onClick={() => navigate('signup')} style={{ background: 'none', border: 'none', color: '#0891B2', cursor: 'pointer', fontWeight: 600 }}>Create an account</button>
           </div>
