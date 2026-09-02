@@ -1,0 +1,61 @@
+KARM - TOP 20 USER FAQs
+
+1. What is KARM?
+KARM is a civic platform where citizens can report local problems, share evidence, and publicly track their resolution.
+
+2. What kind of problems can I report?
+You can report issues related to Education, Healthcare, Municipal Works, and Public Safety.
+
+3. How do I report a problem?
+Create a report, describe the issue, and provide photo or video evidence to support it.
+
+4. Can I report a problem anonymously?
+Yes. You can choose to hide your identity when submitting a report.
+
+5. Will my location be visible if I upload a photo?
+KARM removes GPS and device-related metadata from uploaded photos before they are published.
+
+6. Why should I provide photo or video evidence?
+Evidence helps demonstrate that the reported issue is genuine and allows other citizens to better understand the problem.
+
+7. Can other people support my report?
+Yes. Other users can upvote your report and share their own experiences with the same issue.
+
+8. What does “Days Unresolved” mean?
+It shows how long a reported problem has remained unresolved since it was submitted.
+
+9. Who will see my report?
+Reports are publicly visible so citizens, journalists, and relevant authorities can see and track them.
+
+10. How does my report reach the concerned authority?
+Reports are organised by category so the relevant government department can view issues related to its area and respond to them.
+
+11. Can I track what happens after I report an issue?
+Yes. You can follow the report's status and see how long it remains unresolved.
+
+12. What happens when the problem is fixed?
+The concerned authority can mark the issue as resolved, and the report remains in the platform's history with its resolution timeline.
+
+13. What if the authority does not respond?
+The Days Unresolved counter continues to run publicly, making the lack of response visible.
+
+14. What if someone has already reported the same problem?
+You can support the existing report by upvoting it and adding your experience instead of creating another duplicate report.
+
+15. Can I report fake or misleading information?
+Yes. Community flagging and moderation are used to identify potentially false or inappropriate reports.
+
+16. How does KARM prevent spam and abusive content?
+The platform uses rule-based filtering and community flagging to identify spam, hate speech, personal information, and other inappropriate content.
+
+17. Is my personal information safe?
+KARM aims to minimise stored personal information, particularly for anonymous reports, and uses authentication and privacy measures to protect users.
+
+18. Is KARM replacing government complaint systems?
+No. KARM is designed to make civic problems and government responses more visible and accountable rather than replacing the authorities' role.
+
+19. How is KARM different from social media?
+Unlike ordinary social media posts that can quickly disappear from attention, KARM keeps civic reports organised, visible, and trackable until resolution.
+
+20. Why should I use KARM instead of simply complaining online?
+KARM gives your complaint a public record, supporting evidence, community upvotes, and an unresolved timer, making it easier for an issue to remain visible until action is taken.
